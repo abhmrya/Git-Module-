@@ -1,3 +1,6 @@
 Hello
 Stash Practice
 GitHub PR Practice
+User Profile
+Name: Abhay
+Email: user@example.com
