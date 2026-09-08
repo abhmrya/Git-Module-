@@ -18,7 +18,7 @@ jobs:
           python-version: "3.14"
       
       - name: Install Ruff
-        run: pip instal ruff
+        run: pip install ruff
 
       - name: Check code quality
         run: ruff check .
