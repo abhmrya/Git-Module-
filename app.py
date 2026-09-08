@@ -7,3 +7,8 @@ def multiply(a, b):
 
 print("Hii")
 print("abhay")
+
+def subtract(a, b):
+    return a - b
+
+print(subtract(10, 3))
