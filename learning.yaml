@@ -1,0 +1,43 @@
+name: Abhay
+age: 23
+city: Delhi
+course: Computer Science
+is_student: true
+is_working: false
+experience: 1.5
+middle_name: null
+
+skills:
+  - Python
+  - Git
+  - Docker
+  - FastAPI
+
+languages:
+  - Hindi
+  - English
+
+education:
+  degree: B.Tech
+  branch: Computer Science
+  college:
+    city: Agra
+    country: India
+
+projects:
+  - name: E-Commerce
+    technology: Django
+  - name: ShopSphere
+    technology: FastAPI
+
+
+# My current learning
+learning_status: |
+  I have completed Git basics.
+  I have learned GitHub.
+  I am currently learning YAML.
+  After YAML, I will learn CI/CD.
+
+short_summary: >
+  I am learning Git, GitHub, YAML,
+  and CI/CD for software development.
