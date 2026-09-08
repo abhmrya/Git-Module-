@@ -2,3 +2,5 @@
 check
 stash
 test added
+test multiply added
+.
